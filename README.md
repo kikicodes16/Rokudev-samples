@@ -15,7 +15,7 @@ Using your Roku remote, enter the following button sequence:
 
 > :house: :house: :house: + :arrow_up_small: :arrow_up_small: + :arrow_forward: :arrow_backward: + :arrow_forward:  :arrow_backward: + :arrow_forward:
 
-Follow the steps to activate developer mode on your Roku device. Save the IP address at the end of the process (_example: `http://192.168.0.8`_)
+Follow the steps to activate developer mode on your Roku device. Save this IP address at the end of the process `http://192.168.0.8`_)
 
 Enter the following IP address in a web browser, log-in with username `rokudev` and password 'abcd'
 
